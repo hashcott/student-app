@@ -42,7 +42,7 @@ const MainApp = () => {
         },
       })}
       tabBarOptions={{
-        activeTintColor: "#000",
+        activeTintColor: "tomato",
         inactiveTintColor: "gray",
       }}
     >
